@@ -1,7 +1,5 @@
 package ru.netology.javaqa;
 
-import java.util.Objects;
-
 public class Player {
     private int id;
     private String name;
